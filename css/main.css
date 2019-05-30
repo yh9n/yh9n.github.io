@@ -259,6 +259,8 @@ a.btn-back {
 
 /* Override some of Bootstrap's styles */
 
+body {background-color: rgba(206,191,155,1.0);}
+
 pre {
     font-size: 14px;
 }
@@ -278,7 +280,7 @@ blockquote {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "Microsoft YaHei", "Kozuka Gothic Pr6N", Meiryo, sans-serif !important;
+    font-family: "Microsoft YaHei", "Kozuka Gothic Pr6N", Meiryo, sans-serif !important;color: #337AB7;
 }
 
 article section img {
@@ -287,11 +289,42 @@ article section img {
     margin: 13px auto;
 }
 
-article section p {
-    font-size: 24px;
+.pinyin p {
+	font-size: 20px;
     font-family:Microsoft YaHei;
 }
 
-article section h2 {
-	text-indent: 5rem;
+article section .no-text-indent {
+	text-indent: 0rem;
+	font-size:22px;
+	}
+
+article section p {
+    font-size: 22px;
+    font-family:Microsoft YaHei;
+	text-indent: 4rem;
 }
+
+article section h2,h4 {
+	text-indent: 4rem;
+}
+
+article section ruby {
+	text-indent: 0rem;
+	line-height:26px;
+	font-size:24px;
+	color:#b22222;
+	padding:0 3px;
+	border-bottom:1px solid #000;
+	margin-bottom:5px;
+	text-align: center;
+}
+
+article section rt {
+	text-indent: 0rem;
+	line-height:26px;
+	font-size:20px;
+	color:#2854a9;
+	padding:0 3px;
+}
+
