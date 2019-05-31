@@ -3,37 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yh9n.tk/xinjing-pinyin/</loc>
+    <loc>https://yh9n.github.io/xinjing-pinyin/</loc>
     <lastmod>2018-12-25T14:32:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yh9n.tk/jingangjing/</loc>
+    <loc>https://yh9n.github.io/jingangjing/</loc>
     <lastmod>2018-12-08T21:11:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yh9n.tk/pxxyp/</loc>
+    <loc>https://yh9n.github.io/pxxyp/</loc>
     <lastmod>2018-11-26T10:18:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yh9n.tk/pgm/</loc>
+    <loc>https://yh9n.github.io/pgm/</loc>
     <lastmod>2018-11-23T18:16:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yh9n.tk/categories/</loc>
+    <loc>https://yh9n.github.io/gdyw/</loc>
+    <lastmod>2018-10-30T17:06:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yh9n.github.io/dzj/</loc>
+    <lastmod>2018-10-10T12:11:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yh9n.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yh9n.tk/tags/</loc>
+    <loc>https://yh9n.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yh9n.tk/</loc>
+    <loc>https://yh9n.github.io/</loc>
     <lastmod>2018-12-25T14:32:14+08:00</lastmod>
     <priority>0</priority>
   </url>
